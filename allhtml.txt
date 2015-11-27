@@ -1,0 +1,4 @@
+.//backup_dir/damn/index.html
+.//backup_dir/damn/index1.html
+.//git/damn/index.html
+.//git/damn/index1.html
